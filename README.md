@@ -34,7 +34,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutoshpandey2007&theme=tokyonight"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ashutoshpandey2007&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ashutoshpandey2007&theme=default">
+  <img src="https://streak-stats.demolab.com?user=ashutoshpandey2007&theme=default">
+</picture>
+
 </p>
 
 ---
