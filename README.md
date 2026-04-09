@@ -43,7 +43,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=react-dark"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=react-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=github-light">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=github-light">
+</picture>
 
 </p>
 
