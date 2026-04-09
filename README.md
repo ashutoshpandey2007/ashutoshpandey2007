@@ -41,9 +41,9 @@
 
 ## 📈 Activity Graph
 
-<p>
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=github-light"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=react-dark"/>
 
 </p>
 
