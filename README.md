@@ -35,12 +35,11 @@
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ashutoshpandey2007&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=ashutoshpandey2007&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&hide_border=true&cache_seconds=86400&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </p>
-
 ---
 
 ## 📈 Activity Graph
