@@ -1,69 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Pandey</h1>
-<h3 align="center">Student Developer | AI Enthusiast</h3>
+<div align="center">
+  <h1>Hi there, I'm <a href="https://your-portfolio-link.com">Ashutosh Pandey</a> 🚀</h1>
+  <p><strong>Student Developer | AI Enthusiast | Open Source Contributor</strong></p>
 
-<p align="center">
-Passionate about Artificial Intelligence and exploring the world of Machine Learning.
-Currently learning Computer Vision, NLP, and Deep Learning using Python.
+  <p>
+    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Building%20the%20Future%20with%20AI&fontSize=40" width="100%">
+</div>
+
+## 📖 About Me
+
+I am a passionate **Student Developer** dedicated to bridging the gap between data and intelligence. My journey is fueled by a fascination with how machines perceive and understand the world.
+
+- 🤖 **Current Focus:** Deep Learning architectures and Computer Vision.
+- 🧪 **Research Interests:** Generative AI and NLP optimization.
+- 🐍 **Tech Philosophy:** Write clean, efficient, and scalable Python code.
+- 🎓 **Growth Mindset:** Constantly evolving with the fast-paced AI landscape.
+
+---
+
+## 🛠 My Tech Universe
+
+### 🤖 Artificial Intelligence & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Insights
 
-- 🎓 Student Developer
-- 🤖 Interested in Artificial Intelligence
-- 🧠 Exploring Computer Vision and NLP
-- 🐍 Working with Python
-- 📚 Always learning new technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshpandey2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</p>
 
----
-
-## 🧠 Currently Learning
-
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Natural Language Processing  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpandey2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 What I'm Aiming For
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> "The best way to predict the future is to invent it." — *Alan Kay*
 
-### AI / Data
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+- [ ] **Project:** Develop an end-to-end CV system for real-time object detection.
+- [ ] **Community:** Become a consistent contributor to major AI open-source libraries.
+- [ ] **Learning:** Mastering Transformer architectures in NLP.
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Activity Graph
+![Ashutosh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutoshpandey2007&theme=tokyonight&hide_border=true)
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshpandey2007&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Goals
-
-- Build impactful AI projects  
-- Contribute to open source  
-- Explore advanced AI research  
-
----
-
-## 📫 Contact
-
-📧 Email: your-email@example.com  
-
----
-
-⭐ *Always curious to learn, build, and innovate with AI.*
+<div align="center">
+  <sub>Built with ❤️ by Ashutosh Pandey</sub>
+</div>
