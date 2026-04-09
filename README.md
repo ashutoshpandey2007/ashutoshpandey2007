@@ -44,16 +44,32 @@ I am a passionate **Student Developer** dedicated to bridging the gap between da
 
 ---
 
+---
+
 ## 📊 GitHub Insights
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ashutoshpandey2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpandey2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshpandey2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-contribution-grid-snake.generate.github.io/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpandey2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
 ---
 
