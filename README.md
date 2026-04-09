@@ -51,9 +51,8 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshpandey2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://YOUR-VERCEL-URL.vercel.app/?username=ashutoshpandey2007&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
-
 ---
 
 ## 🌐 Connect With Me
