@@ -34,12 +34,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=ashutoshpandey2007&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=ashutoshpandey2007&layout=compact&hide_border=true&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=ashutoshpandey2007&theme=tokyonight"/>
 </p>
+
 ---
 
 ## 📈 Activity Graph
@@ -51,13 +48,10 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Achievements
 
-<p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashutoshpandey2007&theme=flat&no-frame=true&row=1&column=6"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshpandey2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -81,7 +75,6 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
