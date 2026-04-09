@@ -48,8 +48,12 @@
 </p>
 
 ---
-# Github trophies 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshpandy2007" alt="ashutoshpandy2007" /></a> </p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ashutoshpandey2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
